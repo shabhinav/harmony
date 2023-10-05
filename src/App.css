@@ -1,0 +1,12 @@
+.delete_button{
+  cursor: pointer;
+}
+
+.form-control{
+  width: 80% !important;
+  padding: 10px !important;
+}
+
+.chat-content{
+    width: 80% !important;
+}
